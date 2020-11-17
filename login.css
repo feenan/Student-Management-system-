@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(39, 20, 20)
+}
+form {
+    width: 400px;
+    margin: 100px auto;
+    border: 4px solid #695f41;
+    border-radius: 30%;
+    padding: 20px;
+    text-align: center;
+    color:rgb(194, 190, 190)
+}
+form div {
+    margin: 20px auto;
+}
+form label {
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+}
+.btn {
+    padding: 5px 25px;
+}
+
+h2 > a {
+    margin-left: 10px;
+    font-size: 14px;
+    color:rgb(194, 190, 190);
+    /* vertical-align: bottom; */
+}
